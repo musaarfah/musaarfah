@@ -21,7 +21,7 @@ Currently working at **Amperor Tech** building real-time speech-to-speech AI age
 
 ### Projects
 
-**[Bazaristan](https://github.com/musaarfah/Bazaristan)** — Multi-tenant reseller marketplace with commission tracking, nine-state order lifecycle, AES-256 customer PII protection, and Celery-based background jobs. Built with Django, 
+**[Bazaristan](https://github.com/musaarfah/Bazaristan)** — Multi-tenant reseller marketplace with commission tracking, nine-state order lifecycle, AES-256 customer PII protection, and Celery-based background jobs. Built with Django, Next.js 14, PostgreSQL, and Railway.
 
 **[HIRO](https://github.com/musaarfah/hiro)** — AI-powered recruitment platform with automated resume parsing, semantic candidate-job matching, and LLM-driven scoring pipelines. Built with Django, React, FastAPI, and PostgreSQL.
 
