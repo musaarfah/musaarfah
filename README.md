@@ -21,6 +21,8 @@ Currently working at **Amperor Tech** building real-time speech-to-speech AI age
 
 ### Projects
 
+**[HIRO](https://github.com/musaarfah/hiro)** — AI-powered recruitment platform with automated resume parsing, semantic candidate-job matching, and LLM-driven scoring pipelines. Built with Django, React, FastAPI, and PostgreSQL.
+
 **[ClinicAgent](https://github.com/musaarfah/ClinicAgent)** — AI-powered clinic scheduling assistant with MCP-based tool-calling, multi-provider LLM support, and PostgreSQL-backed appointment management
 
 **[QueryCraft](https://github.com/musaarfah/QueryCraft)** — Hybrid RAG application supporting natural language queries over documents and structured SQL generation; deployed on AWS EC2
