@@ -37,6 +37,6 @@ Currently working at **Amperor Tech** building real-time speech-to-speech AI age
 
 ---
 
-📫 musaarfah2@gmail.com · [LinkedIn](https://www.linkedin.com/in/musa-arfah-938353230/)
+📫 musabinarfah@gmail.com · [LinkedIn](https://www.linkedin.com/in/musa-arfah-938353230/)
 
 ---
