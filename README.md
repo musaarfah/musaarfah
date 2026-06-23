@@ -29,7 +29,7 @@ Currently working at **Amperor Tech** building real-time speech-to-speech AI age
 
 ### Background
 
-- BS Data Science — PUCIT, Lahore (graduating 2026)
+- BS Data Science — PUCIT, Lahore
 - Available for remote roles (UTC+5, flexible overlap with US Eastern hours)
 - Open to AI Engineer, Python Backend, and ML Engineer positions
 
