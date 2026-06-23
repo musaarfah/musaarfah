@@ -13,9 +13,9 @@ Currently working at **Amperor Tech** building real-time speech-to-speech AI age
 
 **Backend** — Python, FastAPI, Django, Flask, PostgreSQL, SQLAlchemy, REST APIs
 
-**Cloud & DevOps** — AWS (EC2, S3, RDS), Docker, GitHub Actions, CI/CD
+**Cloud & DevOps** — AWS (EC2, S3, RDS), Docker, GitHub Actions, CI/CD, Railway
 
-**Frontend** — React, Tailwind CSS
+**Frontend** — Next.js, React, Tailwind CSS
 
 ---
 
